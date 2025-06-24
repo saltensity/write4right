@@ -1,0 +1,17 @@
+body {
+  margin: 0px;
+  font-family: system-ui;
+}
+
+nav {
+  background-color: skyblue;
+  padding: 10px;
+  display: flex;
+  column-gap: 10px;
+  flex-direction: row;
+}
+
+a {
+  text-decoration: none;
+  color: mintcream;
+}
